@@ -32,9 +32,7 @@ I enjoy coding, exploring AI & Machine Learning, and organizing my projects in a
 
 Check out my personal portfolio to see my projects, skills, and work visually:
 
-💻 View Portfolio￼
-
-darkwave-portfolio-uzairatiqs-projects.vercel.app
+[💻 View Portfolio](https://darkwave-portfolio-uzairatiqs-projects.vercel.app)
 
 •	Built using React + Vite with a modern dark theme
 •	Features smooth animations, hover effects, and responsive design
