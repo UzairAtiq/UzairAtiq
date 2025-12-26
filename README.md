@@ -24,7 +24,18 @@ I enjoy coding, exploring AI & Machine Learning, and organizing my projects in a
 ## 🎓 Education
 - **Bachelor's in Artificial Intelligence** – Bahria University, Islamabad 🇵🇰  
 - Completed courses include: AI, OOP, Data Structures & Algorithms, ICT, COAL, PAI  
-- Organized semester-wise projects, labs, and assignments for easy reference 📂  
+- Organized semester-wise projects, labs, and assignments for easy reference 📂
+
+---
+
+🌐 Portfolio
+
+Check out my personal portfolio to see my projects, skills, and work visually:
+
+💻 View Portfolio￼
+	•	Built using React + Vite with a modern dark theme
+	•	Features smooth animations, hover effects, and responsive design
+	•	Showcases my programming projects, AI/ML experiments, and web development work
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/afreakok?igsh=MWFqMGp4M2thdnd3Mg%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/uzair-atiq-14b385329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uzairatiq65@gmail.com) 
