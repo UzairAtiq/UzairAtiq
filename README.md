@@ -1,6 +1,30 @@
-# 💫 About Me:
-# Hi there, I'm Uzair Atiq 👋<br><br>I'm a **full-stack developer** and a **Bachelor's student in AI** at Bahria University, Islamabad. I enjoy building projects, exploring AI and machine learning, and organizing my code in clean, professional ways.  <br><br>---<br><br>## 💻 Tech & Skills<br>- **Languages:** Python, C++, Java, JavaScript  <br>- **Web:** HTML, CSS, React, Node.js  <br>- **AI / ML:** Machine Learning, Deep Learning, Basic Robotics  <br>- **Tools:** Git, VS Code, Mac & Windows, SFML, Jupyter Notebook  <br><br>---<br><br>## 📂 GitHub Repositories<br>- **Academic Codebase** – Organized semester-wise coursework, labs, assignments, and projects  <br>- **Smart City Management System** – Large-scale OOP project  <br>- **Hospital Record System** – OOP project with classes and file handling  <br>- **RPG Game Engine** – C++ engine with plans to integrate SFML  <br><br>---<br><br>## 🎯 Interests<br>- Anime & Manga  <br>- Sci-fi, Apocalyptic, and Survival Movies  <br>- Programming challenges and personal projects  <br>- Organizing code, notes, and workspace efficiently  <br><br>---<br><br>## 📫 Contact Me<br>- **GitHub:** [https://github.com/UzairAtiq](https://github.com/UzairAtiq)  <br>- **Email:** uzairatiq65@gmail.com  <br>- **LinkedIn:** [https://www.linkedin.com/in/uzairatiq](www.linkedin.com/in/uzair-atiq-14b385329)  <br><br>> “Learning never exhausts the mind.” – Leonardo da Vinci
+# Hi, I'm Uzair Atiq 👋
 
+I'm a **Full-Stack Developer** and a **Bachelor's student in AI** at Bahria University, Islamabad.  
+I enjoy coding, exploring AI & Machine Learning, and organizing my projects in a clean and professional way.  
+
+---
+
+## 👨‍💻 About Me
+- Passionate about programming and building practical projects  
+- Interested in AI, Deep Learning, and Robotics  
+- Love organizing notes, code, and my workspace for efficiency  
+- Anime & Manga fan 🎬, enjoy sci-fi and apocalyptic movies 🌌  
+
+---
+
+## 🛠️ Skills
+- **Programming Languages:** Python | C++ | Java | JavaScript  
+- **Web Development:** HTML | CSS | React | Node.js  
+- **AI / ML:** Machine Learning | Deep Learning | Basic Robotics  
+- **Tools & Platforms:** Git | VS Code | Mac & Windows | Jupyter Notebook | SFML  
+
+---
+
+## 🎓 Education
+- **Bachelor's in Artificial Intelligence** – Bahria University, Islamabad 🇵🇰  
+- Completed courses include: AI, OOP, Data Structures & Algorithms, ICT, COAL, PAI  
+- Organized semester-wise projects, labs, and assignments for easy reference 📂  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/afreakok?igsh=MWFqMGp4M2thdnd3Mg%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/uzair-atiq-14b385329) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uzairatiq65@gmail.com) 
