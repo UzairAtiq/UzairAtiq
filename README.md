@@ -1,23 +1,23 @@
 # Uzair Atiq
 
-Aspiring ML/Data Engineer, currently deepening my foundations through Andrew Ng's Machine Learning Specialization (Stanford/DeepLearning.AI). I build practical projects to apply what I learn — from automation pipelines to computer vision experiments.
+Aspiring ML/Data Engineer, focused on building practical, data driven projects, from automation pipelines to computer vision experiments.
 
-📫 Open to entry-level ML/Data roles and collaboration on data-driven projects.
+Actively exploring opportunities in ML/Data roles. Always happy to connect.
 
-## 🔗 Connect
+## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uzair-atiq-14b385329)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Data & ML**
+**Data and ML**
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-**Tools & Platforms**
+**Tools and Platforms**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=UzairAtiq&theme=aura&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UzairAtiq&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
